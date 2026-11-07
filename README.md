@@ -13,7 +13,7 @@ Develop an investigative mindset by querying data using Splunk queries, creating
 * **Report – SSH Server outbound communication**: Daily reporting on the top three outbound destinations sourcing from our SSH server.
 
 ## Setup
-My lab is setup by creating a Linux Virtual Machine in VMware, installing Splunk, and ingesting pre-prepared data, sourced from <a href="https://www.skool.com/mydfir">THE_FORGE</a>.
+My lab is setup by creating a Linux Virtual Machine in VMware, installing Splunk, and ingesting pre-prepared data, sourced from MYDFIR at <a href="https://www.skool.com/mydfir">THE_FORGE</a>.
 
 [![Screenshot 1](/images/Screenshot1.png)](/images/Screenshot1.png)
 
