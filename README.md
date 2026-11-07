@@ -12,6 +12,9 @@ Develop an investigative mindset by querying data using Splunk queries, creating
 * **Alert – Successful SSH Authentication**: Alerting on successful authentication activity towards our SSH server.
 * **Report – SSH Server outbound communication**: Daily reporting on the top three outbound destinations sourcing from our SSH server.
 
+## Lessons Learnt
+In completing this project I learned about how to structure Splunk queries, how to organise data and what questions I should be asking as part of developing an investigative mindset. I found how useful adding event codes can be for searches and how valueable the practice oh mapping events back to the MITRE ATT&CK framework can be.
+
 ## Setup
 My lab is setup by creating a Linux Virtual Machine in VMware, installing Splunk, and ingesting pre-prepared data, sourced from MYDFIR at <a href="https://www.skool.com/mydfir">THE_FORGE</a>.
 
